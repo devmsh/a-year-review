@@ -70,5 +70,9 @@ return [
             'link' => 'https://miguelpiedrafita.com/2018/',
             'author' => 'Miguel Piedrafita'
         ],
+        [
+            'link' => 'https://link.medium.com/K6S0024V4S',
+            'author' => 'Mohammed S. Shurrab'
+        ],
     ],
 ];
