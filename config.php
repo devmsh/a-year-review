@@ -54,5 +54,9 @@ return [
             'link' => 'https://adamwathan.me/2018-year-in-review',
             'author' => 'Adam Wathan',
         ],
+        [
+            'link' => 'https://www.dieterstinglhamber.me/blog/2018-looking-back-at-an-awesome-trying-year',
+            'author' => 'Dieter Stinglhamber',
+        ],
     ],
 ];
