@@ -1,0 +1,7 @@
+.text-shadow-default {
+  text-shadow: 0 0 10px config('colors.default');
+}
+
+.text-shadow-accent {
+  text-shadow: 0 0 5px config('colors.accent');
+}
